@@ -7,7 +7,7 @@ from cst.interface import ProjectType
 # ---------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------
-cst_path = r'C:\Users\moham\OneDrive\Desktop\cst_Fractral_Antenna\CST'
+cst_path = r'CST FILE PATH'
 cst_project = 'Sierpinski_Triangle'  # Project file name without .cst
 project_path = os.path.join(cst_path, cst_project + '.cst')
 
