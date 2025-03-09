@@ -4,7 +4,7 @@ from cst.interface import ProjectType
 import time
 
 # Configuration
-cst_path = r'C:\Users\studtokaarka\Desktop\cst_Fractral_Antenna\CST'
+cst_path = r'CST PATH FILE'
 cst_project = 'Sierpinski_Level'
 project_path = os.path.join(cst_path, cst_project + '.cst')
 
